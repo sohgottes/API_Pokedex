@@ -1,4 +1,5 @@
-PokéDex
+                                  <b>PokéDex</b>
+                                  
 🔗 Live Preview   |    🖥️ Projeto   |    🚀 Tecnologias   |    📝 License
 
 wakatime
