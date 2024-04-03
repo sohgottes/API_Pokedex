@@ -1,11 +1,14 @@
-                                  <b>PokéDex</b>
+                                  **PokéDex | API**
                                   
 🔗 Live Preview   |    🖥️ Projeto   |    🚀 Tecnologias   |    📝 License
 
-wakatime
+
+
 
 💻 Projeto
 Repositorio do projeto "Construindo uma Pokédex com JavaScript" da DIO.
+
+
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -17,6 +20,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">    
 </div>
+
+
 
 📝 License
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
