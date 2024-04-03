@@ -19,6 +19,7 @@
 Repositorio do projeto "Construindo uma Pokédex com JavaScript" da DIO.
 Este é um projeto de uma Pokédex simples desenvolvida usando JavaScript, CSS e HTML. A Pokédex é uma enciclopédia virtual que contém informações sobre várias espécies de Pokémon. Este projeto visa demonstrar como criar uma aplicação básica que permite visualizar e pesquisar informações sobre diferentes Pokémon.
 
+<br><br><br>
 ## Contribuíndo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues se encontrar bugs ou tiver sugestões de melhorias. Se desejar contribuir com código, siga estes passos:
 
