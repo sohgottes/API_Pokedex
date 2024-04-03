@@ -34,8 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br><br><br>
 
 ## 📝 License
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [license](lisence) para mais detalhes.
 
+<br><br><br>
 ## Autor
 
 [Guilherme Moura](https://github.com/sohgottes)
