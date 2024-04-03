@@ -15,12 +15,12 @@
 
 <br><br><br>
 
-💻 Projeto
+## 💻 Projeto
 Repositorio do projeto "Construindo uma Pokédex com JavaScript" da DIO.
 
 <br><br><br>
 
-🚀 Tecnologias
+## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <div style="display: inline_block"><br>
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br><br><br>
 
-📝 License
+## 📝 License
 Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Autor
